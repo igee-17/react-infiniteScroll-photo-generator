@@ -4,7 +4,7 @@
 
 -Created with React.js
 
--Scoll event on window loads photos from Unsplash photo API
+-Scroll event on window loads photos from Unsplash photo API
 
 -has a input form that on submit, queries Unslash API for photos based on search-input(query parameter)
 
