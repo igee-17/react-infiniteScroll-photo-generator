@@ -12,7 +12,7 @@ Languages: HTML, CSS, javaScript
 Framework: React.js
 API: Unsplash API
 
-## for documentation on usage of api see:{https://unsplash.com/documentation#search-photos}
+##### for documentation on usage of api see:{https://unsplash.com/documentation#search-photos}
 
-## to view app in production mode see:{https://infinite-scroll-photoapp.netlify.app/}
+##### to view app in production mode see:{https://infinite-scroll-photoapp.netlify.app/}
 
