@@ -6,7 +6,7 @@
 
 -Scroll event listener on window loads photos from Unsplash photo API
 
--Has a input form that on submit, queries Unslash API for photos based on search-input(query parameter)
+-Has a input form that on submit, queries Unsplash API for photos based on search-input(query parameter)
 
 Languages: HTML, CSS, javaScript
 Framework: React.js
