@@ -1,10 +1,12 @@
 # React-infiniteScroll-photo-generator
 
--A photo generator with infinite scrolling functionality
+- A photo generator with infinite scrolling functionality
 
--Created with React.js
+- Search specific image
 
-##### to view app in production: {https://infinite-scroll-photoapp.netlify.app }
+#### Created with React.js
+
+##### To view app in production: {https://infinite-scroll-photoapp.netlify.app }
 
 # Languages:
 HTML, CSS, javaScript
